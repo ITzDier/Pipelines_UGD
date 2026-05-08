@@ -1,0 +1,18 @@
+# Core Data Science
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+
+# Model Persistence
+joblib
+
+# Jupyter Environment
+jupyterlab
+notebook
+
+# API & Deployment (FastAPI ready)
+fastapi
+uvicorn
+pydantic

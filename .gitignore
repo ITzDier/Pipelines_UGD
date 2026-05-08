@@ -1,0 +1,26 @@
+# Entornos Virtuales
+venv/
+ENV/
+env/
+
+# Python (Archivos compilados)
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Datos (Opcional: descomentar si el CSV es muy pesado para GitHub)
+# data/*.csv
+
+# VS Code
+.vscode/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Modelos temporales o logs
+*.log
